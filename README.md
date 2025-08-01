@@ -1,4 +1,4 @@
-# 🚀 Workfolio Unofficial Installer
+#  Workfolio Unofficial Installer
 
 This is an unofficial installation script for installing **Workfolio** on Linux systems from the official `.deb` package hosted on Workfolio's public S3 bucket.
 
