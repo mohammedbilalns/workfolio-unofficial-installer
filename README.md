@@ -1,6 +1,6 @@
 #  Workfolio Unofficial Installer
 
-This is an unofficial installation script for installing **Workfolio** on Linux systems from the official `.deb` package hosted on Workfolio's public S3 bucket.
+This is an unofficial installation script for installing **[Workfolio](https://www.getworkfolio.com/)** on Arch/Fedora-based distributions.
 
 > ⚠️ **Disclaimer**: This script is **not officially affiliated** with the Workfolio team. Use at your own risk.
 
