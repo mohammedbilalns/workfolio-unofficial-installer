@@ -32,9 +32,9 @@ ar x "${pkg_file}"
 
 tar -xf data.tar.*   
 
-sudo cp -r ./opt/workfolio /opt
+$SUDO cp -r ./opt/workfolio /opt
 
-sudo cp -rv ./usr/share/* /usr/share/
+$SUDO cp -rv ./usr/share/* /usr/share/
 
 sudo update-desktop-database
 sudo gtk-update-icon-cache /usr/share/icons/hicolor
